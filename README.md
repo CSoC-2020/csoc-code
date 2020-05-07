@@ -2,6 +2,12 @@
 
 A repository consisting solutions of all the previous contest.
 
+## Guidelines:
+
+1. All the issues from this repo are of level easy
+2. One can solve max 3 issues from here
+3. Mention the issue no when making a PR
+
 ## Steps to follow :scroll:
 
 ### 1. Fork it :fork_and_knife:
